@@ -54,7 +54,8 @@
   <img style="margin: 10px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" height="40" />
   <img style="margin: 10px" src="https://img.icons8.com/color/48/git.png" alt="Git" height="40" />
   <img style="margin: 10px" src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" height="40" />
-  <img style="margin: 10px" src="https://img.icons8.com/color/48/eclipse.png" alt="Eclipse" height="40" />
+<img style="margin: 10px" src="https://img.icons8.com/color/48/eclipse.png" alt="Eclipse" height="40" />
+
   <img style="margin: 10px" src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA" height="40" />
  
 </li>
