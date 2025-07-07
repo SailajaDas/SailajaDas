@@ -42,13 +42,22 @@
 </ul>
 <br>
 
-## 🐍 My GitHub Contributions Snake
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+ 
+  <a href="https://github.com/FaithMutua-code" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="jukie-github" />
+  </a>
+  <a href="https://instagram.com/_faith_charles" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="jukie-twitter" />
+  </a>
+  <a href="mailto:charlesfaith157@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="jukie-email" />
+  </a>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SailajaDas/SailajaDas/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SailajaDas/SailajaDas/output/github-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SailajaDas/SailajaDas/output/github-snake.svg">
-</picture>
 
 
 
