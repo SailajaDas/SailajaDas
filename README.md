@@ -29,9 +29,12 @@
 </li>
 <li>
 <p><strong>Front-End Development</strong>:</p>
- <img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML">
- <img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS">
- <img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JS">
+<img src="https://user-images.githubusercontent.com/64439609/212556407-f122dc0e-901c-4df7-960f-29a3b52c5349.png" width="40" height="40" alt="HTML" />
+<img src="https://user-images.githubusercontent.com/64439609/212556203-47a51702-fec1-4275-bafb-6afdea15b092.png" width="40" height="40" alt="CSS" />
+<img src="https://user-images.githubusercontent.com/64439609/212556085-e6f8391a-6f25-43d5-8bfe-818167047cfb.png" width="40" height="40" alt="JavaScript" />
+<img src="https://img.icons8.com/officel/80/react.png" width="40" height="40" alt="React" />
+<img src="https://img.icons8.com/color/48/tailwind_css.png" width="40" height="40" alt="Tailwind CSS" />
+
 </li>
 <li>
 <p><strong>Softwares and Tools</strong>:</p>
