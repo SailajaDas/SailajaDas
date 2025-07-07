@@ -42,23 +42,6 @@
 </ul>
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- Icons from https://icons8.com -->
-<div align="center">
-
-  <a href="https://instagram.com/_faith_charles" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="faith-instagram" />
-  </a>
-  <a href="mailto:charlesfaith157@gmail.com" target="_top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="faith-email" />
-  </a>
-</div>
-
-
-
-
-
 
 
 <h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h3>
