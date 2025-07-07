@@ -41,7 +41,18 @@
 </li>
 </ul>
 <br>
-<p></p>
+
+## 🐍 My GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SailajaDas/SailajaDas/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SailajaDas/SailajaDas/blob/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://github.com/SailajaDas/SailajaDas/blob/output/github-snake.svg">
+</picture>
+
+
+
+
 <h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h3>
 <p align="center">
  </p><div align="center" class="icons-social" style="margin-left: 10px;">
