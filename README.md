@@ -42,23 +42,13 @@
 </ul>
 <br>
 <p></p>
-<h2 id="-github-stats"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
-<br>
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api?username=Mahdiiye&amp;theme=dracula&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt=""><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&amp;theme=dracula&amp;hide_border=false" alt=""><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&amp;theme=dracula&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt=""></p>
 
-</div>
-<hr>
-<h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h3>
-<a href="https://twitter.com/gdsc_bu" rel="nofollow"> </h3>
 <p align="center">
  </p><div align="center" class="icons-social" style="margin-left: 10px;">
         <a target="_blank" href="https://www.linkedin.com/in/sailaja-das--/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/SailajaDas">
-		<img src=""></a>
+			<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
            <a style="margin-left: 10px;" target="_blank" href="https://">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
 		<a style="margin-left: 10px;" target="_blank" href="">
