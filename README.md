@@ -81,5 +81,6 @@
 <p></p>
 
 
-Check out some of my Projects and Research Publications below ⬇
+
+- Check out some of my **Projects** and **Research Publications** below ⬇
 
