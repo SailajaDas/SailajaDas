@@ -24,7 +24,7 @@
 </p><ul>
 <li>
 <p><strong>Languages</strong>:</p>
- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40" alt="Java Logo" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
 
 </li>
 <li>
