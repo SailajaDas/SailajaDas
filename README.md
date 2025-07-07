@@ -46,12 +46,7 @@
 <br>
 <!-- Icons from https://icons8.com -->
 <div align="center">
-  <a href="https://github.com/FaithMutua-code" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="faith-github" />
-  </a>
-  <a href="https://linkedin.com/in/faith-mutua" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="faith-linkedin" />
-  </a>
+
   <a href="https://instagram.com/_faith_charles" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="faith-instagram" />
   </a>
@@ -73,12 +68,12 @@
 			 <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="faith-linkedin" /></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/SailajaDas">
 			 <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="faith-github" /></a>
-           <a style="margin-left: 10px;" target="_blank" href="https://">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
+          <a href="https://instagram.com/_faith_charles" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="faith-instagram" />
+  </a>
+  <a href="mailto:charlesfaith157@gmail.com" target="_top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="faith-email" />
+  </a>
       </div>
 <p></p>
 
