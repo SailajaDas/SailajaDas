@@ -53,7 +53,8 @@
 
 </div>
 <hr>
-<h3 align="center">Connect with me 🤝 </h3>
+<h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h3>
+<a href="https://twitter.com/gdsc_bu" rel="nofollow"> </h3>
 <p align="center">
  </p><div align="center" class="icons-social" style="margin-left: 10px;">
         <a target="_blank" href="https://www.linkedin.com/in/">
