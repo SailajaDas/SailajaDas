@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=800&amp;pause=1000&amp;size=33&amp;color=042D5E&amp;width=370&amp;height=100&amp;lines=Hi+%2C+I'm+Mahdiye+%F0%9F%91%8B" alt="Typing SVG"></a>
 </p>
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=Mahdiiye&amp;color=brightgreen" alt="watching_count">
+<img src="https://komarev.com/ghpvc/?username=Sailaja Das&amp;color=brightgreen" alt="watching_count">
  </p>
 <h2 id="-about-me"><picture><img src="https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width="40px"></picture> <strong>About me</strong></h2>
 <p><picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400px"></picture></p>
@@ -62,10 +62,12 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
            <a style="margin-left: 10px;" target="_blank" href="https://">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		
+		<a style="margin-left: 10px;" target="_blank" href="">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="">
 					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
       </div>
 <p></p>
+
 
 
