@@ -42,9 +42,7 @@
 <li>
   <p><strong>Back-End Development</strong>:</p>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-  <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Servlet" height="50" />
   <img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/source-code.png" alt="JSP" height="50" />
- 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 </li>
