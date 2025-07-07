@@ -68,6 +68,4 @@
       </div>
 <p></p>
 
-<hr>
-<p><a href="https://github.com/Mahdiiye">Mahdiiye</a>
-Last Edited on: 19/01/2023</p> 
+
