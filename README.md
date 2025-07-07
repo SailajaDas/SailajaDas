@@ -50,23 +50,6 @@
 
 
 
-### <h1 align="left" style="font-size: 36px;">Hi! 👋 My name is Anreet Kaur</h1>
-
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
-### Let's explore more about me! :)
-
-- 🤖 I’m a third-year computer science student and an aspiring software developer
-
-- 🔭 I’m currently working on learning how to create chrome extensions using TypeScript and JavaScript :)
-
-- 🌱 I’m currently exploring C++, Data Structure & Algorithms, Tensorflow and some mobile development technologies
-
-- ❓ Ask me about anything related to MERN stack and related technologies
-
-- ⚡ Fun fact: I love attending hackathons! [won 2/4 by now]
-
-<br/>  
 
 
 ## My Skill Set  
@@ -133,38 +116,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/anreetka" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/anreet-kaur" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anreetka&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=anreetka&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
 
 
 
