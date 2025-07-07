@@ -34,9 +34,25 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-
-
 </li>
+
+<li>
+  <p><strong>Backend Technologies</strong>:</p>
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="40" height="40" alt="Java" />
+
+
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40" alt="Servlet" />
+  
+  <img src="https://img.icons8.com/ios-filled/50/000000/source-code.png" width="40" height="40" alt="JSP" />
+
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-database-coding-and-development-flat-flat-juicy-fish.png" width="40" height="40" alt="JDBC" />
+ 
+  <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" width="40" height="40" alt="Spring Boot" />
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+</li>
+
+
 <li>
 <p><strong>Softwares and Tools</strong>:</p>
   <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git">
