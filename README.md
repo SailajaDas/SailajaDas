@@ -44,19 +44,22 @@
 
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
-<!-- https://icons8.com -->
+<!-- Icons from https://icons8.com -->
 <div align="center">
- 
-  <a href="https://github.com/FaithMutua-code" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="jukie-github" />
+  <a href="https://github.com/FaithMutua-code" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="faith-github" />
   </a>
-  <a href="https://instagram.com/_faith_charles" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="jukie-twitter" />
+  <a href="https://linkedin.com/in/faith-mutua" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="faith-linkedin" />
   </a>
-  <a href="mailto:charlesfaith157@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="jukie-email" />
+  <a href="https://instagram.com/_faith_charles" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="faith-instagram" />
+  </a>
+  <a href="mailto:charlesfaith157@gmail.com" target="_top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="faith-email" />
   </a>
 </div>
+
 
 
 
