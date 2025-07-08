@@ -1,90 +1,92 @@
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=800&amp;pause=1000&amp;size=33&amp;color=042D5E&amp;width=370&amp;height=100&amp;lines=Hi+%2C+I'm+Sailaja+%F0%9F%91%8B" alt="Typing SVG"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Front-End+Web+Developer;Backend+Developer&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=35&pause=1000&color=FF61F6&center=true&width=500&height=100&lines=Hi+%2C+I'm+Sailaja+%F0%9F%91%8B;Full-Stack+Web+Developer;Java+Enthusiast+%7C+Tech+Lover" alt="Typing SVG" />
+  </a>
 </p>
 
-<h2 id="-about-me"> <strong>👩‍🦰About me</strong>
-</h2>
-<h3 align="center">I'm currently pursuing my Bachelors of Technology under the domain of Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.</h3>
-<p><picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400px"></picture></p>
- <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend & Forntend%20Development-dodgerblue">
-  <img src="https://img.shields.io/badge/Languages-English,Hindi,Odia,Bengali-dodgerblue">
+---
+
+<h2 align="center">👩‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="300px" align="right" />
 </p>
+
+<p align="left">
+🎓 I'm currently pursuing my B.Tech in Information Technology.<br>
+🌟 Self-motivated, curious and always ready for challenges.<br>
+💻 Passionate about coding, web development and lifelong learning.<br>
+🚀 Fast learner who strives to improve every single day.
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Frontend & Backend Development-9cf" />
+  <img src="https://img.shields.io/badge/Languages-English%2C%20Hindi%2C%20Odia%2C%20Bengali-blueviolet" />
+</p>
+
 <ul>
-<li>🤩 I always try to explore and learn something new.</li>
-<li>🌱 I’m currently learning MERN Stack</li>
-<li>💬 Ask me about Java,React,HTML5,CSS3,Js</li>
-<li>📫 How to reach me: dassailaja50@gmail.com 📩</li>
-<li>😄 Pronouns: She/Her</li>
-
+  <li>🌱 Currently learning: <strong>MERN Stack</strong></li>
+  <li>💬 Ask me about: <strong>Java, React, HTML5, CSS3, JS</strong></li>
+  <li>📫 Reach me at: <strong>dassailaja50@gmail.com</strong></li>
+  <li>😄 Pronouns: <strong>She/Her</strong></li>
 </ul>
-<br>
 
-<h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
+---
+
+<h2 align="center">🚀 Tech Stack & Tools</h2>
+
+<h3>💻 Languages:</h3>
+<p>
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" alt="Java" />
+</p>
+
+<h3>🎨 Front-End Development:</h3>
+<p>
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5" />
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="50" alt="CSS3" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" alt="Tailwind CSS" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap" />
+</p>
+
+<h3>🛠️ Back-End Development:</h3>
+<p>
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" alt="Java" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/source-code.png" height="50" alt="JSP" />
+  <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="50" alt="Spring Boot" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL" />
+</p>
+
+<h3>🧰 Tools & IDEs:</h3>
+<p>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40" alt="VS Code" />
+  <img src="https://img.icons8.com/color/48/git.png" height="40" alt="Git" />
+  <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" height="40" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/eclipse.png" height="40" alt="Eclipse" />
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" height="40" alt="IntelliJ" />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+
 <p align="center">
-</p><ul>
-<li>
-<p><strong>Languages</strong>:</p>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-
-</li>
-<!-- Frontend Development -->
-<li>
-  <p><strong>Front-End Development</strong>:</p>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-</li>
-
-<!-- Backend Development -->
-<li>
-  <p><strong>Back-End Development</strong>:</p>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-  <img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/source-code.png" alt="JSP" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-</li>
-
-<!-- Software & Tools -->
-<li>
-  <p><strong>Softwares and Tools</strong>:</p>
-  <img style="margin: 10px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" height="40" />
-  <img style="margin: 10px" src="https://img.icons8.com/color/48/git.png" alt="Git" height="40" />
-  <img style="margin: 10px" src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" height="40" />
-<img style="margin: 10px" src="https://img.icons8.com/color/48/eclipse.png" alt="Eclipse" height="40" />
-
-  <img style="margin: 10px" src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA" height="40" />
- 
-</li>
-
-</ul>
-<br>
-
-
-<h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h3>
-<p align="center">
- </p><div align="center" class="icons-social" style="margin-left: 10px;">
-        <a target="_blank" href="https://www.linkedin.com/in/sailaja-das--/">
-			 <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="faith-linkedin" /></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/SailajaDas">
-			 <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="faith-github" /></a>
-          <a href="https://instagram.com/_faith_charles" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="faith-instagram" />
+  <a href="https://www.linkedin.com/in/sailaja-das--" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="mailto:charlesfaith157@gmail.com" target="_top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="faith-email" />
+  <a href="https://github.com/SailajaDas" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="GitHub" />
   </a>
-      </div>
-<p></p>
+  <a href="https://instagram.com/_faith_charles" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Instagram" />
+  </a>
+  <a href="mailto:dassailaja50@gmail.com">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Email" />
+  </a>
+</p>
 
+---
 
-
-- Check out some of my **Projects** and **Research Publications** below ⬇
+<h3 align="center">👇 Check out some of my <span style="color:#FF61F6;">Projects</span> and <span style="color:#42A5F5;">Research</span> Work Below 👇</h3>
 
