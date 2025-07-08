@@ -33,7 +33,7 @@ I'm currently Completed B.Tech in Computer Science Engineering. A fast learner, 
 <li>
 <p><strong>Languages</strong>:</p>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+
 
 </li>
 <!-- Frontend Development -->
