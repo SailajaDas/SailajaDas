@@ -72,8 +72,6 @@
 <br>
 
 
-
-
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <p align="center">
@@ -84,7 +82,6 @@
   </picture>
 </p>
 
----
 
 <h3 align="center">Connect with Me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h3>
 
