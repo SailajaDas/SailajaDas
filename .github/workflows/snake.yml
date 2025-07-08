@@ -2,8 +2,8 @@ name: Generate GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:     # Allows manual run
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual run
 
 jobs:
   generate:
@@ -15,7 +15,7 @@ jobs:
       - name: Generate the snake
         uses: Platane/snk@v3
         with:
-          github_user_name: SailajaDas  
+          github_user_name: SailajaDas
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
@@ -27,4 +27,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
