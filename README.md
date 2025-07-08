@@ -7,7 +7,7 @@
 
 <h2 id="-about-me"> <strong>👩‍🦰About me</strong>
 </h2>
-<h3 align="center">I'm currently pursuing my Bachelors of Technology under the domain of Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.</h3>
+<h3 align="center">I'm currently completed my Bachelors of Technology under the domain of Computer Science. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.</h3>
 <p><picture><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
 </picture></p>
  <p align="left">
