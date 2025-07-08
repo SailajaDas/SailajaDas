@@ -12,15 +12,15 @@
 I'm currently Completed B.Tech in Computer Science Engineering. A fast learner, always motivated to explore and improve. Passionate about coding and web development.
 </p>
 
-<p align="right">
-  <img align="right" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" width="350" />
-</p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend & Forntend%20Development-dodgerblue">
   <img src="https://img.shields.io/badge/Languages-English,Hindi,Odia,Bengali-dodgerblue">
 </p>
-
+<p align="right">
+  <img align="right" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" width="350" />
+</p>
 
 <ul>
   <li>🌱 Currently learning MERN Stack</li>
