@@ -67,19 +67,13 @@
 </ul>
 <br>
 
-
-
-
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SailajaDas/SailajaDas/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SailajaDas/SailajaDas/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SailajaDas/SailajaDas/output/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SailajaDas/SailajaDas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SailajaDas/SailajaDas/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/SailajaDas/SailajaDas/output/github-snake.svg" />
 </picture>
-
-
-
 
 <h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h3>
 <p align="center">
