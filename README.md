@@ -5,9 +5,9 @@
 
 </p>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2>👩‍💻 About Me</h2>
 
-<div align="center">
+<div>
   <p>
     <img align="right" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" width="300" />
     I'm currently Completed B.Tech in Computer Science Engineering. A fast learner, always motivated to explore and improve. Passionate about coding and web development.
