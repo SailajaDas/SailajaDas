@@ -5,21 +5,18 @@
 
 </p>
 
-
-
 <h2 align="center">👩‍💻 About Me</h2>
-<p align="center">
-I'm currently Completed B.Tech in Computer Science Engineering. A fast learner, always motivated to explore and improve. Passionate about coding and web development.
-</p>
 
-
+<div align="center">
+  <p>
+    <img align="right" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" width="300" />
+    I'm currently Completed B.Tech in Computer Science Engineering. A fast learner, always motivated to explore and improve. Passionate about coding and web development.
+  </p>
+</div>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend & Forntend%20Development-dodgerblue">
   <img src="https://img.shields.io/badge/Languages-English,Hindi,Odia,Bengali-dodgerblue">
-</p>
-<p align="right">
-  <img align="right" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" width="350" />
 </p>
 
 <ul>
@@ -28,6 +25,7 @@ I'm currently Completed B.Tech in Computer Science Engineering. A fast learner, 
   <li>📫 Reach me: dassailaja50@gmail.com</li>
   <li>😄 Pronouns: She/Her</li>
 </ul>
+
 
 
 
