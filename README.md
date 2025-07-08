@@ -68,14 +68,12 @@
 <br>
 
 ## 🐍 My GitHub Contributions Snake
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SailajaDas/SailajaDas/blob/output/dist/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SailajaDas/SailajaDas/blob/output/dist/github-snake.svg">
   <img alt="GitHub Snake" src="https://github.com/SailajaDas/SailajaDas/blob/output/dist/github-snake.svg">
 </picture>
+
 
 
 
