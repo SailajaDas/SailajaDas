@@ -86,7 +86,7 @@
 
 ---
 
-<h3 align="center">🤝 Connect with Me</h3>
+<h3 align="center">Connect with Me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sailaja-das--/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" /></a>
