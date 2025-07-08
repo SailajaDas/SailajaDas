@@ -4,8 +4,8 @@
 </p>
 
 <h2 id="-about-me"> <strong>About me</strong>
-I'm currently pursuing my Bachelors of Technology under the domain of Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.
 </h2>
+<h2>I'm currently pursuing my Bachelors of Technology under the domain of Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.</h2>
 <p><picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400px"></picture></p>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend & Forntend%20Development-dodgerblue">
