@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FE64D9&width=500&lines=Hi+%2C+I'm+Sailaja+%F0%9F%91%8B;Front-End+Web+Developer;Back-End+Developer;Fast+Learner+%26+Self+Motivated" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=#000000&width=500&lines=Hi+%2C+I'm+Sailaja+%F0%9F%91%8B;Front-End+Web+Developer;Back-End+Developer;Fast+Learner+%26+Self+Motivated" alt="Typing SVG">
   </a>
 </p>
 
@@ -15,10 +15,11 @@ I'm currently Completed B.Tech in Computer Science Engineering. A fast learner, 
   <img align="right" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" width="350" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-blueviolet" />
-  <img src="https://img.shields.io/badge/Languages-English%2C%20Hindi%2C%20Odia%2C%20Bengali-ff69b4" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend & Forntend%20Development-dodgerblue">
+  <img src="https://img.shields.io/badge/Languages-English,Hindi,Odia,Bengali-dodgerblue">
 </p>
+
 
 <ul>
   <li>🌱 Currently learning MERN Stack</li>
