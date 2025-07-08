@@ -1,11 +1,14 @@
-  <p>﻿</p>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=800&amp;pause=1000&amp;size=33&amp;color=042D5E&amp;width=370&amp;height=100&amp;lines=Hi+%2C+I'm+Sailaja+%F0%9F%91%8B" alt="Typing SVG"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Open+source+Enthusiast;Front-End+Web+Developer;Backend+Developer&center=true&width=380&height=45"></a>
 </p>
 
 <h2 id="-about-me"> <strong>About me</strong>
 </h2>
-<h2>I'm currently pursuing my Bachelors of Technology under the domain of Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.</h2>
+<h3 align="center">I'm currently pursuing my Bachelors of Technology under the domain of Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.</h3>
 <p><picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400px"></picture></p>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend & Forntend%20Development-dodgerblue">
