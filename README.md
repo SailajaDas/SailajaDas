@@ -3,20 +3,21 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&amp;weight=800&amp;pause=1000&amp;size=33&amp;color=042D5E&amp;width=370&amp;height=100&amp;lines=Hi+%2C+I'm+Sailaja+%F0%9F%91%8B" alt="Typing SVG"></a>
 </p>
 
-<h2 id="-about-me"> <strong>About me</strong></h2>
+<h2 id="-about-me"> <strong>About me</strong>
+I'm currently pursuing my Bachelors of Technology under the domain of Information Techonology. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I love learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects and I love coding and web Development.
+</h2>
 <p><picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400px"></picture></p>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend & Forntend%20Development-dodgerblue">
   <img src="https://img.shields.io/badge/Languages-English,Hindi,Odia,Bengali-dodgerblue">
 </p>
 <ul>
-<li>🔭 I’m currently working on my side projects</li>
-<li>🌱 I’m currently learning software architecture</li>
-<li>👯 I’m looking to collaborate on your open source projects</li>
-<li>💬 Ask me about C#</li>
-<li>📫 How to reach me: Contact part</li>
+<li>🤩 I always try to explore and learn something new.</li>
+<li>🌱 I’m currently learning MERN Stack</li>
+<li>💬 Ask me about Java,React,HTML5,CSS3,Js</li>
+<li>📫 How to reach me: dassailaja50@gmail.com 📩</li>
 <li>😄 Pronouns: She/Her</li>
-<li>⚡ Fun fact: I never thought I would become a .net programmer!</li>
+
 </ul>
 <br>
 
